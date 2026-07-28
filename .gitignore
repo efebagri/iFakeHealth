@@ -11,5 +11,8 @@ DerivedData/
 iFakeHealth/Info.plist
 iFakeHealth/iFakeHealth.entitlements
 
+# local notes, not for the public repo
+CLAUDE.md
+
 # macOS
 .DS_Store
